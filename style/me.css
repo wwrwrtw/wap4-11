@@ -1,0 +1,162 @@
+
+
+.banner{
+    /*width:7.5rem;*/
+    width:100%;
+    max-width:7.5rem;
+    min-height:3.2rem;
+    height:auto;
+}
+.banner img{ width: 100%;}
+.today{
+    width:100%;
+    max-width:7.5rem;
+    min-width:3.2rem;
+}
+.today ul{
+    height:0.8rem;
+    margin-left:0.4rem;
+}
+.today ul li{
+    width:25%;
+    float:left;
+    height:1.2rem;
+    padding-left:0.2rem;
+    display:inline-block;
+}
+.today ul li img{
+    width:0.8rem;
+    height:auto;
+    float: left;
+    display:inline-block;
+}
+
+.today ul li p {
+    font-size: 0.20rem;
+    /*color: #a3a3a3;*/
+    width:100%;
+    /*width:25%;*/
+    /*margin-top:0.8rem;*/
+    margin-left:0.05rem;
+    display:inline-block;
+}
+.quan{
+    background:#f0f4f7;
+    width:100%;
+    height:8rem;
+}
+/*优惠券 start*/
+.quan ul .dispount-coupon{
+    width:1.8rem;
+    height:1.8rem;
+    background:white;
+    display:inline-block;
+    margin-top:0.2rem;
+    float:left;
+    /*margin-left:0.1rem;*/
+    margin-right:0.07rem;
+}
+.quan ul .dispount-coupon img{
+    display:inline-block;
+    /*width:25%;*/
+    /*margin-top:0.4rem;*/
+    /*margin-left:0.4rem;*/
+    text-align:center;
+    padding-top:0.4rem;
+    margin-left:0.6rem;
+    width:0.6rem;
+
+}
+.quan ul .dispount-coupon p{
+    margin-left:0.36rem;
+    font-size:0.24rem;
+}
+
+
+.quan ul .dispount-coupon-one{
+    width:1.8rem;
+    height:1.8rem;
+    background:white;
+    display:inline-block;
+    margin-top:0.2rem;
+    float:left;
+    /*margin-left:0.1rem;*/
+    margin-right:0.07rem;
+}
+.quan ul .dispount-coupon-one img{
+    display:inline-block;
+    /*width:25%;*/
+    /*margin-top:0.4rem;*/
+    /*margin-left:0.4rem;*/
+    text-align:center;
+    padding-top:0.4rem;
+    margin-left:0.6rem;
+    width:0.6rem;
+}
+.quan ul .dispount-coupon-one p{
+    margin-left:0.6rem;
+    font-size:0.24rem;
+}
+
+.account{
+    display:inline-block;
+    width:100%;
+    height:0.74rem;
+    background:white;
+    margin-top:0.4rem;
+}
+.account p{
+    font-size:0.24rem;
+    display:inline-block;
+    line-height:0.74rem;
+    text-align:center;
+    margin-left:0.2rem;
+}
+.account span{
+    font-size:0.22rem;
+    display:inline-block;
+    padding-left:4.3rem;
+}
+
+footer ul{
+    width:100%;
+    height:100%;
+}
+footer ul li{
+    width:25%;
+    height:100%;
+    padding-top:0.12rem;
+    float: left;
+}
+footer ul li a img{
+    width:0.6rem;
+    height:0.8rem;
+    display:block;
+    /*background:url("../images/20.png") no-repeat top center;*/
+    background-size:contain;
+    margin:0 auto;
+}
+footer ul li a img{
+    width:0.6rem;
+    height:0.8rem;
+    display:block;
+    /*background:url("../images/21.png") no-repeat top center;*/
+    background-size:contain;
+    margin:0 auto;
+}
+footer ul li a img{
+    width:0.6rem;
+    height:0.8rem;
+    display:block;
+    /*background:url("../images/22.png") no-repeat top center;*/
+    background-size:contain;
+    margin:0 auto;
+}
+footer ul li a img{
+    width:0.6rem;
+    height:0.8rem;
+    display:block;
+    /*background:url("../images/23.png") no-repeat top center;*/
+    background-size:contain;
+    margin:0 auto;
+}

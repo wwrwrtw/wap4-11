@@ -1,0 +1,313 @@
+
+
+.fill .top{
+    width:100%;
+    height:0.88rem;
+    background:#f9f9f9;
+    padding-top:0.1rem;
+    padding-left:0.3rem;
+    border-bottom:0.01rem solid #d3d3d3;
+}
+.fill .top a .img{
+    width:0.2rem;
+    height:0.2rem;
+    float:left;
+    display:inline-block;
+    /*margin-top:0.3rem;*/
+}
+.fill .top .h{
+    color:#5e5e5e;
+    font-size:0.34rem;
+    margin-left:2.4rem;
+    margin-top:-0.7rem;
+    float:left;
+    display:inline-block;
+}
+.fill .consignee{
+    margin-left:0.3rem;
+}
+.fill .consignee .t{
+    width:100%;
+    height:0.15rem;
+    margin-top:0.3rem;
+    margin-left:-0.2rem;
+}
+.fill .consignee  h4{
+    color:#5e5e5e;
+    font-size:0.24rem;
+    display:inline-block;
+    margin-top:0.3rem;
+    float:left;
+}
+.fill .consignee .pic{
+    width:0.38rem;
+    height:0.35rem;
+    float:left;
+    margin-top:0.26rem;
+    margin-left:0.2rem;
+}
+.fill .consignee .designation{
+    font-size:0.24rem;
+    color:#333;
+    display:inline-block;
+    margin-top:0.3rem;
+    margin-left:0.1rem;
+    float:left;
+}
+.fill .consignee .phone{
+    width:0.23rem;
+    height:0.35rem;
+    float:left;
+    margin-top:0.26rem;
+    margin-left:1rem;
+}
+.fill .consignee .telephone{
+    display:inline-block;
+    float:left;
+    font-size:0.24rem;
+    margin-top:0.3rem;
+    margin-left:0.2rem;
+}
+.fill .consignee .address{
+    margin-top:0.16rem;
+    display:inline-block;
+    color:#807f7f;
+    font-size:0.24rem;
+}
+.fill .e-mail{
+    width:100%;
+    height:1.58rem;
+    border-top:0.01rem solid #e0e0e0;
+    margin-top:0.26rem;
+    border-bottom:0.01rem solid #e0e0e0;
+}
+.fill .e-mail .you{
+    display:inline-block;
+    font-size:0.24rem;
+    color:#787878;
+    float:left;
+    margin-top:0.3rem;
+    margin-left:0.3rem;
+}
+.fill .e-mail .p{
+    width:0.34rem;
+    height:0.34rem;
+    float:left;
+    margin-top:0.3rem;
+    margin-left:0.08rem;
+}
+.fill .e-mail .obsolete{
+    display:inline-block;
+    float:left;
+    margin-top:0.3rem;
+    margin-left:0.1rem;
+    font-size:0.24rem;
+    color:#787878;
+}
+.fill .e-mail .photo{
+    width:0.23rem;
+    height:0.35rem;
+    margin-top:0.3rem;
+    margin-left:1.2rem;
+    display:inline-block;
+    float:left;
+}
+.fill .e-mail .next{
+    width:0.34rem;
+    height:0.41rem;
+    float:left;
+    margin-top:0.5rem;
+    margin-left:1.8rem;
+}
+.fill .e-mail .tele{
+    display:block;
+    margin-top:0.3rem;
+    margin-left:0.2rem;
+    float:left;
+    font-size:0.24rem;
+    color:#787878;
+}
+.fill .e-mail .mail{
+    display:inline-block;
+    color:#787878;
+    font-size:0.24rem;
+    margin-top:0.8rem;
+    /*margin-left:-1rem;*/
+    margin-left:-7.1rem;
+}
+.fill .date{
+    width:100%;
+    height:1rem;
+    border-top:0.01rem solid #e0e0e0;
+    border-bottom:0.01rem solid #e0e0e0;
+    margin-top:0.3rem;
+}
+.fill .date .Date-of-service{
+    display:inline-block;
+    float:left;
+    font-size:0.26rem;
+    color:#808080;
+    margin-top:0.32rem;
+    margin-left:0.2rem;
+}
+.fill .date .choose{
+    display:inline-block;
+    float:left;
+    font-size:0.26rem;
+    color:#808080;
+    margin-top:0.32rem;
+    margin-left:5rem;
+}
+.fill .date .r{
+    float:right;
+    width:0.34rem;
+    height:0.41rem;
+    margin-top:0.3rem;
+}
+.fill .date .choose-one{
+    display:inline-block;
+    float:left;
+    font-size:0.26rem;
+    color:#808080;
+    margin-top:0.32rem;
+    margin-left:5.3rem;
+}
+.fill .date .Optional{
+    display:block;
+    float:left;
+    font-size:0.24rem;
+    color:#d2d2d2;
+    margin-top:0.34rem;
+}
+.fill .date .choose-two{
+    display:inline-block;
+    float:left;
+    font-size:0.26rem;
+    color:#808080;
+    margin-top:0.3rem;
+    margin-left:4.3rem;
+}
+.fill .date .choose-three{
+    display:inline-block;
+    float:left;
+    font-size:0.26rem;
+    color:#ff7525;
+    margin-top:0.32rem;
+    margin-left:5.3rem;
+}
+
+.fill .date-one{
+    width:100%;
+    height:1rem;
+    border-top:0.01rem solid #e0e0e0;
+    border-bottom:0.01rem solid #e0e0e0;
+    margin-top:0.6rem;
+    display:inline-block;
+}
+/*.fill .date-one .remarks{*/
+    /*width:100%;*/
+    /*height:1rem;*/
+    /*!*border-top:0.01rem solid #e0e0e0;*!*/
+    /*border-bottom:0.01rem solid #e0e0e0;*/
+    /*!*margin-top:0.6rem;*!*/
+    /*display:inline-block;*/
+    /*margin-top:0.3rem;*/
+/*}*/
+.fill  .remarks{
+    display:inline-block;
+    margin-top:0.3rem;
+    color:#808080;
+    font-size:0.26rem;
+    float:left;
+    width:100%;
+    height:0.8rem;
+    border-bottom: 0.01rem solid #e0e0e0;
+}
+.fill  .remarks .remarks-two{
+    display:inline-block;
+    font-size:0.26rem;
+    color:#808080;
+    float:left;
+    margin-top:0.1rem;
+    margin-left:0.2rem;
+}
+.fill  .remarks .Optional{
+    display:block;
+    float:left;
+    font-size:0.24rem;
+    color:#d2d2d2;
+    margin-top:0.1rem;
+}
+.fill  .remarks .r{
+    float:right;
+    width:0.34rem;
+    margin-top:0.1rem;
+    /*height:0.41rem;*/
+    /*margin-top:0.3rem;*/
+}
+.fill .money{
+    width:100%;
+    height:0.72rem;
+    border-top:0.01rem solid #e0e0e0;
+    border-bottom: 0.01rem solid #e0e0e0;
+    margin-top:0.42rem;
+    display:inline-block;
+}
+.fill .money .shop{
+    font-size:0.26rem;
+    color:#9d9d9d;
+    float:left;
+    margin-top:0.14rem;
+    margin-left:0.2rem;
+}
+.fill .money .money-pay{
+    display:inline-block;
+    float:right;
+    margin-top:0.15rem;
+    color:#ff7525;
+    font-size:0.26rem;
+}
+.fill .g{
+    width:100%;
+    height:1.24rem;
+    background:white;
+}
+.fill .y{
+    width:100%;
+    height:0.2rem;
+    background:#f0efed;
+    border-top:0.01rem solid #d8d8d8;
+    border-bottom: 0.01rem solid #d8d8d8;
+}
+.fill .Actual-payments{
+    width:100%;
+    height:1.15rem;
+}
+.fill .Actual-payments .actual{
+    display:inline-block;
+    float:left;
+    margin-top:0.3rem;
+    font-size:0.34rem;
+    color:#6e6e6e;
+}
+.fill .Actual-payments .m{
+    display:inline-block;
+    float:left;
+    margin-top:0.3rem;
+    color:#fe8a3d;
+    font-size:0.34rem;
+}
+.fill .Actual-payments .account{
+    display:inline-block;
+    float:right;
+    width:2.83rem;
+    height:0.9rem;
+    background:#fe6d0c;
+    /*margin-left:3rem;*/
+    margin-top:0.1rem;
+    border-radius: 0.1rem;
+    text-align:center;
+    padding-top:0.2rem;
+    font-size:0.34rem;
+    color:white;
+}
